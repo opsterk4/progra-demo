@@ -1,2 +1,3 @@
-# progra-demo
-primer repositorio de la materia de programacion
+# Siguiendo las instrucciones para editar archivos
+
+Editando el archivo README
